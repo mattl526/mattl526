@@ -1,5 +1,3 @@
-- 👋Hi, YoSoyMateo
-- <img width="196" height="196" 
-    alt="image" src="https://github.com/user-attachments/assets/72fde385-5c33-417c-a328-95a08e62137e" />
-
-
+madronaadvisory.com Founder.
+Rooted in strategy. Built for the long game.
+I help leaders navigate uncertainty with clarity and conviction.
